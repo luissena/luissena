@@ -9,7 +9,6 @@ I started in the development world in May 2022 and since then I have been obsess
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [luis.senarode@gmail.com](mailto:luis.senarode@gmail.com)
 * 🚀  I'm currently working on [EduNext](http://edunext.com.br/)
-* 🧠  I'm learning Vue and Adonis
 * ⚡  I'm never quite sure how to write width and height 😂
 
 ### Skills
