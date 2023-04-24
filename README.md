@@ -8,7 +8,7 @@ Fullstack developer with legacy systems experience and project development exper
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [luis.senarode@gmail.com](mailto:luis.senarode@gmail.com)
-* 🚀  I'm currently working on [EduNext](http://edunext.com.br/)
+* 🚀  I'm currently working on [edunext](http://edunext.com.br/)
 
 
 ### Skills
