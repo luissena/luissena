@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I started in the development world in May 2022 and since then I have been obsessed with learning new technologies in order to increase productivity and generate value for companies.
+Fullstack developer with legacy systems experience and project development experience building them from scratch. Solid knowledge in front-end reactives frameworks like React and Vue. I also have MVC and MSC architecture experience on Node, using various frameworks like Nest, Adonis and Express. I have an easy time teamworking, i use agile methodologies and have code review experience utilizing GitHub. I also know how to version codes using Git.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [luis.senarode@gmail.com](mailto:luis.senarode@gmail.com)
 * 🚀  I'm currently working on [EduNext](http://edunext.com.br/)
-* ⚡  I'm never quite sure how to write width and height 😂
+
 
 ### Skills
 
