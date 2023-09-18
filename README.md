@@ -27,8 +27,8 @@ class Luis extends Human {
   
   technologies: {
     Languages:     ["JavaScript", "GoLang"];
-    Frontend:     ["React.js", "Vue"];
-    Backend:      ["Nest", "Adonis", "GinGonic", "Gorilla"];
+    Frontend:      ["React.js", "Vue"];
+    Backend:       ["Nest", "Adonis", "GinGonic", "Gorilla"];
     APIs:          ["REST", "SOAP", "GraphQL", "GRPC"];
     Events:        ["RabbitMQ", "Kafka", "Redis"];
     CloudComputing:["AWS", "Dockker"]
