@@ -31,7 +31,7 @@ class Luis extends Human {
     Backend:       ["Nest", "Adonis", "GinGonic", "Gorilla"];
     APIs:          ["REST", "GraphQL", "gRPC", "WebSocket"];
     Events:        ["RabbitMQ", "Kafka", "Redis"];
-    CloudComputing:["AWS", "Dockker"]
+    CloudComputing:["AWS", "Docker"]
   };
 }
 ```
